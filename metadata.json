@@ -1,0 +1,8 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Azure/azure-verified-modules-tools/main/src/Avm.Authoring/Resources/Schemas/v1/avm-module-metadata.schema.json",
+  "moduleDisplayName": "Oracle Database on Azure",
+  "moduleDescription": "AVM Pattern Module for Oracle Database on Azure",
+  "canonicalType": "oracle-iaas",
+  "owners": [],
+  "telemetryIdPrefix": "46d3xtrf.ptn.9915f82"
+}
